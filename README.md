@@ -9,7 +9,7 @@ This project demonstrates core front-end development concepts such as layout des
 
 > Add the screenshot of your website’s front page here 👇
 
-![Homepage Screenshot](./Screenshot (595))
+![Homepage Screenshot](Screenshot (595).png)
 
 ---
 
