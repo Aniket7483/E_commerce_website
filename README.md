@@ -7,7 +7,7 @@ This project demonstrates core front-end development concepts such as layout des
 
 ## 📸 Project Preview
 
-> Add the screenshot of your website’s front page here 👇
+
 
 ![Homepage Screenshot](home_page.png)
 
